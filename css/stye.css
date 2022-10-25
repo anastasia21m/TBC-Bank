@@ -1,0 +1,275 @@
+body
+{
+    background-color: #e6eaee;
+    width: 100%;
+}
+
+.cont-1
+{
+    width: 460px;
+    height: 470px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+.cont-2
+{
+    width: 300px;
+    height: 240px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+.cont-3
+{
+    width: 140px;
+    height: 240px;
+    padding: 0 !important;
+}
+.cont-3 div
+{
+    background-color: #005DAA;
+    border-radius: 15px;
+    height: 220px;
+    margin: -52px 16px -213px 5px;
+}
+
+.cont-4
+{
+    background-color: #00a3e0;
+    width: 140px;
+    height: 240px;
+    margin: -240px 0 0 0;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 15px;
+}
+
+.cont-5
+{
+    width: 300px;
+    height: 480px;
+    margin: -240px 0 0 0;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+
+}
+
+.cont-6
+{
+    width: 300px;
+    height: 460px;
+    padding-top: 10px;
+    padding-right: 10px;
+}
+
+.cont-7
+{
+    width: 300px;
+    height: 460px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.cont-8
+{
+    width: 300px;
+    height: 220px;
+    position: relative;
+    align-self: end;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.bottom-row
+{
+    margin-top: -240px;
+}
+
+.homepage
+{
+    width: 940px;
+    margin: 0 auto;
+}
+
+.homepage1-logo
+{
+    border-radius: 15px;
+}
+
+.homepage2-logo
+{
+    border-radius: 15px;
+}
+
+.homepage3-logo
+{
+    height: 460px;
+    width: 300px;
+    border-radius: 15px;
+}
+
+.homepage4-logo
+{
+    height: 460px;
+    width: 300px;
+    border-radius: 15px;
+}
+
+.homepage5-logo
+{
+    height: 460px;
+    width: 300px;
+    border-radius: 15px;
+}
+
+.homepage6-logo
+{
+    height: 220px;
+    width: 300px;
+    border-radius: 15px;
+}
+
+.TBC-logo
+{
+    height: 65px;
+    background: #00a3e0;
+}
+
+.TBC-logo1
+{
+    margin-right: auto;
+    margin-left: auto;
+    width: 940px;
+    position: relative;
+}
+
+.logo
+{
+    margin-top: 11px;
+}
+
+.logologo1
+{
+    height: 33;
+    width: 48;
+    margin: 14px 0px 3px 24px;
+}
+
+.banner-text1
+{
+    color: white;
+    height: 103;
+    width: 15;
+    margin-top: 35px;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 11.5;
+}
+
+.banner-text2
+{
+    color: white;
+    height: 19px;
+    width: 85px;
+    margin-top: 0;
+    margin-bottom: -1rem;
+    margin-right: -1;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 13.5;
+    text-align: right;
+}
+
+.arrow
+{
+    display: inline-block;
+    width: 10px;
+    height: 15px;
+    margin: 0 0 0 5px;
+    background: url(https://www.tbcbank.ge/tbcpw.portal-public-theme/images/tbc/menu-arrow-white.png) 0 5px no-repeat;
+    position: relative;
+}
+
+.exRatesText
+{
+    font-size: 14px;
+    line-height: 16px;
+    color: #fff;
+    margin: 4px;
+    display: inline-block;
+}
+
+.currRate1
+{
+    float: left;
+    font-size: 14px;
+    color: white;
+    margin-left: 55;
+    margin-top: -28;
+}
+
+.currRate2
+{
+    float: left;
+    font-size: 14px;
+    color: white;
+    margin-left: 55;
+    margin-top: -28;
+}
+
+.currRate3
+{
+    float: left;
+    font-size: 14px;
+    color: white;
+    margin-left: 55;
+    margin-top: -28;
+}
+
+.usa-flag
+{
+    display: inline-block;
+    width: 30px;
+    height: 20px;
+    float: none;
+    background: url(../images/flags_30x20.png) no-repeat;
+    margin: 0 10px 10px 20px;
+    background-position: 0 -609px!important;
+}
+
+.eu-flag
+{
+    display: inline-block;
+    width: 30px;
+    height: 20px;
+    float: none;
+    background: url(../images/flags_30x20.png) no-repeat;
+    margin: 0 10px 10px 20px;
+    background-position: 0 -231px!important;
+}
+
+.uk-flag
+{
+    display: inline-block;
+    width: 30px;
+    height: 20px;
+    float: none;
+    background: url(../images/flags_30x20.png) no-repeat;
+    margin: 0 10px 10px 20px;
+    background-position: 0 -252px!important;
+}
+
+.banner-text3 
+{
+    display: inline-block;
+    color: #fff;
+    text-transform: uppercase;
+    margin: 6px 0 0 50px;
+    font-size: 14px;
+}
